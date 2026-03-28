@@ -1,4 +1,4 @@
-#Accidently killed the live link here's the new one: https://07baecf4225f11a42e.gradio.live
+# Accidently killed the live link here's the new one: https://07baecf4225f11a42e.gradio.live
 # Sports Deepfake Detector
 
 Sports Deepfake Detector is a browser based image authenticity checker built for Pepperdine University hackathon project. It is designed to help evaluate whether a sports related image is likely authentic, possibly synthetic, or inconclusive, withing the given abilities. 

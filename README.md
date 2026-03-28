@@ -1,11 +1,11 @@
 # Sports Deepfake Detector
 
-Sports Deepfake Detector is a browser-based image authenticity checker built for a hackathon project. It is designed to help evaluate whether a sports-related image is likely authentic, possibly synthetic, or inconclusive.
+Sports Deepfake Detector is a browser based image authenticity checker built for Pepperdine University hackathon project. It is designed to help evaluate whether a sports related image is likely authentic, possibly synthetic, or inconclusive, withing the given abilities. 
 
 ## Features
 
 - Pretrained deepfake image classifier
-- Face detection for face-centered analysis
+- Face detection for face centered analysis
 - Blur and resolution checks
 - Metadata inspection for suspicious editing or missing EXIF clues
 - Inconclusive result when evidence is weak

@@ -1,7 +1,7 @@
 # Accidently killed the live link here's the new one (I can't keep my mac from shutting off so follow the intrustions to set it up locally on the bottom of this README page: https://07baecf4225f11a42e.gradio.live
 # Sports Deepfake Detector
 
-Sports Deepfake Detector is a browser based image authenticity checker built for Pepperdine University hackathon project. It is designed to help evaluate whether a sports related image is likely authentic, possibly synthetic, or inconclusive, withing the given abilities. 
+Sports Deepfake Detector is a browser based image authenticity checker built for Pepperdine University hackathon project. It is designed to help evaluate whether a sports related image is likely authentic, possibly synthetic, or inconclusive, within the given abilities. 
 
 ## Features
 
